@@ -1,5 +1,5 @@
 #NAME RADIOS ESPAÑOLAS
-#SERVICE 1:64:A4:0:0:0:0:0:0:0::---------- Canal+Espana ----------
+#SERVICE 1:64:87:0:0:0:0:0:0:0::---------- Canal+Espana ----------
 #DESCRIPTION ---------- Canal+Espana ----------
 #SERVICE 1:0:1:7596:422:1:C00000:0:0:0:
 #SERVICE 1:0:2:7598:422:1:C00000:0:0:0:

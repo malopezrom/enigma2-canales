@@ -77,19 +77,19 @@
 #DESCRIPTION Canal 13 TV
 #SERVICE 4097:0:1:3:0:0:0:0:0:0:http%3a//interalmeria.tv/directo/live.m3u8:interalmería HD
 #DESCRIPTION interalmería HD
-#SERVICE 1:64:39:0:0:0:0:0:0:0:::::::ITALIA:::
+#SERVICE 1:64:1C:0:0:0:0:0:0:0:::::::ITALIA:::
 #DESCRIPTION :::::ITALIA:::
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//cld02ibi16.wz.tv2000.it/HLS/Tv2000WZ/chunklist.m3u8:Tv 2000 Italia
 #DESCRIPTION Tv 2000 Italia
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//wma07.fluidstream.net%3a1935/TeleArena/livestream/live.m3u8:TELE ARENA
 #DESCRIPTION TELE ARENA
-#SERVICE 1:64:3A:0:0:0:0:0:0:0:::::::SPORTS:::
+#SERVICE 1:64:1D:0:0:0:0:0:0:0:::::::SPORTS:::
 #DESCRIPTION :::::SPORTS:::
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport1/adsport1_720p.m3u8:AD SPORT 1 HD
 #DESCRIPTION AD SPORT 1 HD
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//adtv.ercdn.net/adsport2/adsport2_720p.m3u8:AD SPORT 2 HD
 #DESCRIPTION AD SPORT 2 HD
-#SERVICE 1:64:3B:0:0:0:0:0:0:0:::::::MUSICA:::
+#SERVICE 1:64:1E:0:0:0:0:0:0:0:::::::MUSICA:::
 #DESCRIPTION :::::MUSICA:::
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1300:ONE 1 HD
 #DESCRIPTION ONE 1 HD
@@ -103,7 +103,7 @@
 #DESCRIPTION Radio 105 TV
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//tv.portalfoxmix.club%3a1935/portalfoxmix/portalfoxmix/playlist.m3u8?JoCaRoIPTV.m3u8:PortalFoxmix
 #DESCRIPTION PortalFoxmix
-#SERVICE 1:64:3C:0:0:0:0:0:0:0:::::::ADULTOS::
+#SERVICE 1:64:1F:0:0:0:0:0:0:0:::::::ADULTOS::
 #DESCRIPTION :::::ADULTOS::
 #SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//live.redtraffic.xyz/bigass.m3u8:Big Ass HD
 #DESCRIPTION Big Ass HD
